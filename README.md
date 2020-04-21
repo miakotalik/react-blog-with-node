@@ -11,6 +11,11 @@ To install the node modules navigate to the my-blog and my-blog-backend folders 
 '''
 in both folders
 
+run the following in the my-blog directory:
+'''
+npm start
+'''
+
 To run the node server
 Navigate to /react-blog-with-node/my-blog-backend and run:
 '''npm babel-node src/server.js
