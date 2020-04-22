@@ -8,7 +8,8 @@ A simple blog application written with React and Node.
 
 To install the node modules navigate to the my-blog and my-blog-backend folders and run
 
-```npm install
+```
+npm install
 
 ```
 
@@ -16,14 +17,16 @@ in both folders
 
 run the following in the my-blog directory:
 
-```npm start
+```
+npm start
 
 ```
 
 To run the node server
 Navigate to /react-blog-with-node/my-blog-backend and run:
 
-```npm babel-node src/server.js
+```
+npm babel-node src/server.js
 
 ```
 
