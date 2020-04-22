@@ -60,7 +60,10 @@ switched to db my-blog
 
 ### Built With
 
--   [React](https://reactjs.org/) - The JavaScript library used
+-   [React](https://reactjs.org/) - The Javascript library used
+-   [Node](https://nodejs.org/en/) - The Javascript runtime used
+-   [Express](https://expressjs.com/) - The web framework used
+-   [MongoDb](https://www.mongodb.com/) - The database used
 
 ## Available Scripts
 
