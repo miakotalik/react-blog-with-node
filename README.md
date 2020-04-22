@@ -47,6 +47,7 @@ The application should be running at: http://localhost:8000/
 -   [Node](https://nodejs.org/en/) - The Javascript runtime used
 -   [Express](https://expressjs.com/) - The web framework used
 -   [MongoDb](https://www.mongodb.com/) - The database used
+-   [Bootstrap 4](https://getbootstrap.com/) - The toolkit used for developing app HTML/CSS JS
 
 ## Available Scripts
 
