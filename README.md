@@ -39,6 +39,21 @@ Navigate to /react-blog-with-node/my-blog-backend and run:
 
 ### Installing
 
+### Database Configuration
+
+MongoDB setup on windows [here](https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/)
+To add the dummy data open up the mongo shell and do the following:
+
+```
+> use my-blog
+switched to db my-blog
+> db.articles.insert([{
+... name:'learn-react',
+... upvotes: 0,
+... comments: [],
+... }])
+```
+
 ### Running the Tests
 
 ### Deployment
