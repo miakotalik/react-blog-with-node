@@ -7,19 +7,26 @@ A simple blog application written with React and Node.
 ### Getting Started
 
 To install the node modules navigate to the my-blog and my-blog-backend folders and run
-'''npm install
-'''
+
+```npm install
+
+```
+
 in both folders
 
 run the following in the my-blog directory:
-'''
-npm start
-'''
+
+```npm start
+
+```
 
 To run the node server
 Navigate to /react-blog-with-node/my-blog-backend and run:
-'''npm babel-node src/server.js
-'''
+
+```npm babel-node src/server.js
+
+```
+
 To start using nodemon (senses code changes and automatically restarts the server)
 Navigate to /react-blog-with-node/my-blog-backend and run:
 '''npx nodemon --exec npx babel-node src/server.js
@@ -38,6 +45,12 @@ Navigate to /react-blog-with-node/my-blog-backend and run:
 -   [React](https://reactjs.org/) - The JavaScript library used
 
 ## Available Scripts
+
+In the my-blog-backend directory, you can run:
+
+### `npm start`
+
+Runs the node server using Nodemon. The server will automatically detect changes and restart the server.
 
 In the project directory, you can run:
 
