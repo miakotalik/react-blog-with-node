@@ -20,6 +20,10 @@ To run the node server
 Navigate to /react-blog-with-node/my-blog-backend and run:
 '''npm babel-node src/server.js
 '''
+To start using nodemon (senses code changes and automatically restarts the server)
+Navigate to /react-blog-with-node/my-blog-backend and run:
+'''npx nodemon --exec npx babel-node src/server.js
+'''
 
 ### Dependencies
 
